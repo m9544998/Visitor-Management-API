@@ -1,4 +1,4 @@
-# 🏢 Visitor Management API
+# Visitor Management API
 
 A simple REST API built with **Flask** and **SQLite** to manage office visitors.
 
